@@ -5,6 +5,7 @@ in bash use :
 
 `` $wget -q https://raw.githubusercontent.com/drazioti/my_public_key/main/pk.asc && echo -n "key id:" && gpg --list-packets pk.asc | awk '/keyid:/{ print $2 }' && gpg --import pk.asc
 ``
+<br><br>
 If you want to send me an encrypted e-mail use the previous key, Thunderbird cooperates with GPG via enigmail. 
 <br><br>
 ## Other public keys
