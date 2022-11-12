@@ -11,5 +11,5 @@ If you want to send me an encrypted e-mail use the previous key, Thunderbird coo
 ## Other public keys
 Also, I use "Qualified" electronic signatures.<br>
 Here are my public keys.<br>
-[1] [Expired in 9 Nov. 2022](https://repo.harica.gr/cert_info?recvcode=JAUXQCMAFKDQWWXGDJKDWBSFCOPWNJAXEAITOFNLKJNOGEIJGM)<br>
-[2] [Expires in 3 Nov. 2024](https://repo.harica.gr/cert_info?recvcode=LCXTVBOTCLPVQJFBVISRWWCOHOIDATTTXNRTDOVODCQKKPLDRK)
+[1] [Expired in 9 Nov. 2022](https://repo.harica.gr/cert_info?recvcode=JAUXQCMAFKDQWWXGDJKDWBSFCOPWNJAXEAITOFNLKJNOGEIJGM) (p7b) <br>
+[2] [Expires in 3 Nov. 2024](https://repo.harica.gr/cert_info?recvcode=LCXTVBOTCLPVQJFBVISRWWCOHOIDATTTXNRTDOVODCQKKPLDRK) (p7b) <br>
