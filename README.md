@@ -8,7 +8,7 @@ in bash use :
 <br><br>
 If you want to send me an encrypted e-mail use the previous key, Thunderbird cooperates with GPG via enigmail. 
 <br><br>
-## Other public keys
+## X509 public keys
 Also, I use "Qualified" electronic signatures.<br>
 Here are my public keys.<br>
 [1] [Expired in 9 Nov. 2022](https://repo.harica.gr/cert_info?recvcode=JAUXQCMAFKDQWWXGDJKDWBSFCOPWNJAXEAITOFNLKJNOGEIJGM) [p7b](https://github.com/drazioti/my_public_key/blob/main/cert_current.p7b) <br>
