@@ -6,7 +6,10 @@ in bash use :
 `` $wget -q https://raw.githubusercontent.com/drazioti/my_public_key/main/pk.asc && echo -n "key id:" && gpg --list-packets pk.asc | awk '/keyid:/{ print $2 }' && gpg --import pk.asc
 ``
 <br><br>
-If you want to send me an encrypted e-mail use the previous key, Thunderbird cooperates with GPG via enigmail. 
+If you want to send me an encrypted e-mail use the previous key, use bash to send me an email :
+`` $gpg -e -a -r drazioti@gmail.com
+``
+and when you finish press ``ctrl+D``
 <br><br>
 ## X509 public keys
 Also, I use "Qualified" electronic signatures.<br>
