@@ -11,7 +11,7 @@ If you want to send me an encrypted e-mail use the previous public key and then 
 ``
 write your message and when you finish press ``ctrl+D``
 <br><br>
-Finally send the derived encrypted message to my inbox.
+Finally send the derived encrypted message to me : drazioti at gmail.com
 ## X509 public keys
 Also, I use "Qualified" [electronic signatures](https://www.harica.gr/en/Products/eSignature).<br>
 Here are my public keys.<br>
