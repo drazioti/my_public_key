@@ -6,11 +6,12 @@ in bash use :
 `` $wget -q https://raw.githubusercontent.com/drazioti/my_public_key/main/pk.asc && echo -n "key id:" && gpg --list-packets pk.asc | awk '/keyid:/{ print $2 }' && gpg --import pk.asc
 ``
 <br><br>
-If you want to send me an encrypted e-mail use the previous key, use bash to send me an email :
+If you want to send me an encrypted e-mail use the previous public key and then in bash :
 `` $gpg -e -a -r drazioti@gmail.com
 ``
-and when you finish press ``ctrl+D``
+write your message and when you finish press ``ctrl+D``
 <br><br>
+Finally send the derived encrypted message to my inbox.
 ## X509 public keys
 Also, I use "Qualified" [electronic signatures](https://www.harica.gr/en/Products/eSignature).<br>
 Here are my public keys.<br>
