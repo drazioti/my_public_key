@@ -7,7 +7,7 @@ in bash use :
 ``
 <br><br>
 If you want to send me an encrypted e-mail use the previous public key and then in bash :
-`` $gpg -e -a -r drazioti@gmail.com
+`` $gpg -e -a -r drazioti@csd.auth.gr
 ``
 write your message and when you finish press ``ctrl+D``
 <br><br>
