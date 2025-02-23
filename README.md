@@ -17,5 +17,5 @@ Also, I use "Qualified" [electronic signatures](https://www.harica.gr/en/Product
 Here are my public keys.<br>
 [1] [Expired in 9 Nov. 2022](https://repo.harica.gr/cert_info?recvcode=JAUXQCMAFKDQWWXGDJKDWBSFCOPWNJAXEAITOFNLKJNOGEIJGM) [p7b](https://github.com/drazioti/my_public_key/blob/main/cert_old_2022.p7b) <br>
 [2] [Expires in 3 Nov. 2024](https://repo.harica.gr/cert_info?recvcode=LCXTVBOTCLPVQJFBVISRWWCOHOIDATTTXNRTDOVODCQKKPLDRK) [p7b](https://github.com/drazioti/my_public_key/blob/main/cert_old_2024.p7b) [pem](https://github.com/drazioti/my_public_key/blob/main/cert_old_2024.pem) <br>
-[3] [Expires in 7 Jan. 2026] [pem](https://github.com/drazioti/my_public_key/blob/main/cert_current.pem) <br><br>
+[3] Expires in 7 Jan. 2026 [pem](https://github.com/drazioti/my_public_key/blob/main/cert_current.pem) <br><br>
 These keys can not be used for encryption, so you can not use them for this purpose. You can use them for verifying digital signatures.
