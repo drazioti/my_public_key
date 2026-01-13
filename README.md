@@ -1,5 +1,5 @@
 ## My public pgp key
-``keyid : EB1185F82713D6DF``
+``keyid : ECC1D6073657CC53``
 
 in bash use : 
 
